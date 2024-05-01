@@ -25,10 +25,6 @@ It's a fun way to pass the time and challenge your reflexes. Feel free to fork t
 - Adjustable game speed
 - Responsive design (optional)
 
-## Demo
-
-[Include a GIF or link to a video demonstrating the gameplay.
-
 ## Installation
 
 1. Clone the repository:
