@@ -14,7 +14,7 @@ with the objective being to avoid collisions with the snake's own body or the wa
 
 ## Introduction
 
-Famous Snake Game is a simple yet entertaining game built using [insert programming language or framework here]. 
+Famous Snake Game is a simple yet entertaining game built using python 3. 
 It's a fun way to pass the time and challenge your reflexes. Feel free to fork the project and customize it to your liking!
 
 ## Features
